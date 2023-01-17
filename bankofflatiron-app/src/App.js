@@ -1,6 +1,6 @@
 import './App.css';
-import GetReceipts from './Components/receipts';
-import AddReceipt from './Components/addReceipts';
+import GetReceipts from './component/receipts';
+import AddReceipt from './component/addReceipts';
 
 function App() {
   
